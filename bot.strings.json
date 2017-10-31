@@ -1,1 +1,18 @@
 
+{
+  "welcome_1": "Welcome $1",
+  "welcome_2": "You can subscribe on whatever",
+  "welcome_3": "We have Blau, Blau, blau",
+  "youtube_title": "This is youtube catalog",
+  "youtube_subtitle": "This is youtube",
+  "twitter_title": "This is twitter catalog",
+  "twitter_subtitle": "This is twitter",
+  "podcast_title": "This is podcast catalog",
+  "podcast_subtitle": "This is podcast",
+  "subscribed": "You are now subscribed to $1... I will tell you when there is a new...",
+  "preview": "Meanwhile you can preview older posts...",
+  "ok": "Ok!",
+  "show_carrousel": "Show carousel",
+  "not_now": "Not now!",
+  "looks_great": "OK(Looks great right?) All (You can use the bottom menu to search for blaublua  or look for blau, blau, blau"
+}
