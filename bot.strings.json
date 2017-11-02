@@ -1,14 +1,24 @@
 
 {
-  "welcome_1": "Welcome $1",
+  "welcome_1": "Welcome $1!",
   "welcome_2": "You can subscribe on whatever",
   "welcome_3": "We have Blau, Blau, blau",
+  
   "youtube_title": "This is youtube catalog",
-  "youtube_subtitle": "This is youtube",
+  "youtube_subtitle": "This is youtube stuff",
+  "youtube_image_url": "http://cdn.wccftech.com/wp-content/uploads/2017/08/Screen-Shot-2017-08-30-at-12.37.20-AM.png",
+  "youtube_url": "http://storedev2.gethooksapp.com/featured/youtube",
+  
   "twitter_title": "This is twitter catalog",
-  "twitter_subtitle": "This is twitter",
+  "twitter_subtitle": "This is twitter stuff",
+  "twitter_image_url": "http://www.freelarge-images.com/wp-content/uploads/2015/05/Twitter_Logo_Hd_Png_07.png",
+  "twitter_url": "http://storedev2.gethooksapp.com/featured/twitter",
+  
   "podcast_title": "This is podcast catalog",
-  "podcast_subtitle": "This is podcast",
+  "podcast_subtitle": "This is podcast stuff",
+  "podcast_image_url": "https://coloradooutdoorsmag.files.wordpress.com/2011/08/podcast-symbol8.jpg",
+  "podcast_url": "http://storedev2.gethooksapp.com/featured/podcast",
+  
   "subscribed": "You are now subscribed to $1... I will tell you when there is a new...",
   "preview": "Meanwhile you can preview older posts...",
   "ok": "Ok!",
