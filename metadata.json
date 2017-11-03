@@ -19,10 +19,10 @@
   "podcast_image_url": "https://coloradooutdoorsmag.files.wordpress.com/2011/08/podcast-symbol8.jpg",
   "podcast_url": "https://storedev2.gethooksapp.com/featured/podcast",
   
-  "search_title": "This is podcast catalog",
-  "search_subtitle": "This is podcast stuff",
+  "search_title": "This is search catalog",
+  "search_subtitle": "This is search stuff",
   "search_image_url": "https://coloradooutdoorsmag.files.wordpress.com/2011/08/podcast-symbol8.jpg",
-  "search_url": "https://storedev2.gethooksapp.com/featured/podcast",
+  "search_url": "https://storedev2.gethooksapp.com/search",
   
   "youtube_button_title": "View catalog",
   "twitter_button_title": "View catalog",
