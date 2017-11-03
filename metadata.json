@@ -19,9 +19,15 @@
   "podcast_image_url": "https://coloradooutdoorsmag.files.wordpress.com/2011/08/podcast-symbol8.jpg",
   "podcast_url": "https://storedev2.gethooksapp.com/featured/podcast",
   
+  "search_title": "This is podcast catalog",
+  "search_subtitle": "This is podcast stuff",
+  "search_image_url": "https://coloradooutdoorsmag.files.wordpress.com/2011/08/podcast-symbol8.jpg",
+  "search_url": "https://storedev2.gethooksapp.com/featured/podcast",
+  
   "youtube_button_title": "View catalog",
   "twitter_button_title": "View catalog",
   "podcast_button_title": "View catalog",
+  "search_button_title": "View catalog",
   
   "subscribed": "You are now subscribed to $1... I will tell you when there is a new...",
   "preview": "Meanwhile you can preview older posts...",
