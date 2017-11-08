@@ -1,42 +1,41 @@
-
-
 {
-  "welcome_1": "Welcome $1! 👋",
-  "welcome_2": "You can subscribe on whatever",
-  "welcome_3": "We have Blau, Blau, blau",
-  "welcome_back": "Welcome back $1! How r u doin'?",
-  
-  "youtube_title": "This is youtube catalog",
-  "youtube_subtitle": "This is youtube stuff",
+  "welcome_1": "4Howdy $1! 👋",
+  "welcome_2": "Here you’ll have access to all your inspiration from your favorite people and brands . I will talk to you when there is something new interesting about the ones you pick.",
+  "welcome_3": "First, you have to add them! Choose your favourite Youtubers 🎥, Twitters 🐦, Podcasts 🎙️ or Blogs 📰. Or search for them directly.",
+  "welcome_back_1": "Happy to see you $1, I was missing you! 🙃",
+  "welcome_back_2": "Lets get to it",
+
+  "youtube_title": "Youtube Catalog",
+  "youtube_subtitle": "Don’t miss any more videos",
   "youtube_image_url": "http://cdn.wccftech.com/wp-content/uploads/2017/08/Screen-Shot-2017-08-30-at-12.37.20-AM.png",
   "youtube_url": "https://storedev2.gethooksapp.com/featured/youtube",
   
-  "twitter_title": "This is twitter catalog",
-  "twitter_subtitle": "This is twitter stuff",
+  "twitter_title": "Twitter Catalog",
+  "twitter_subtitle": "The world-famous blue bird chanting for you",
   "twitter_image_url": "http://www.freelarge-images.com/wp-content/uploads/2015/05/Twitter_Logo_Hd_Png_07.png",
   "twitter_url": "https://storedev2.gethooksapp.com/featured/twitter",
   
-  "podcast_title": "This is podcast catalog",
-  "podcast_subtitle": "This is podcast stuff",
+  "podcast_title": "Podcast Catalog",
+  "podcast_subtitle": "Get notified on your favourite audio series",
   "podcast_image_url": "https://coloradooutdoorsmag.files.wordpress.com/2011/08/podcast-symbol8.jpg",
   "podcast_url": "https://storedev2.gethooksapp.com/featured/podcast",
   
-  "search_title": "This is search catalog",
-  "search_subtitle": "This is search stuff",
+  "search_title": "Search Whatever (%&*¨#)",
+  "search_subtitle": "Reach for the stars",
   "search_image_url": "https://coloradooutdoorsmag.files.wordpress.com/2011/08/podcast-symbol8.jpg",
   "search_url": "https://storedev2.gethooksapp.com/search",
   
-  "youtube_button_title": "View catalog",
-  "twitter_button_title": "View catalog",
-  "podcast_button_title": "View catalog",
-  "search_button_title": "View catalog",
+  "youtube_button_title": "Explore",
+  "twitter_button_title": "Explore",
+  "podcast_button_title": "Explore",
+  "search_button_title": "Search",
   
-  "subscribed": "You are now subscribed to $1... I will tell you when there is a new...",
-  "preview": "Meanwhile you can preview older posts...",
-  "show_carrousel": "Show carousel",
-  "not_now": "Not now!",
+  "subscribed": "You are now subscribed to $1 and will start receiving everything published in real-time 🙌🏻",
+  "preview": "You can also see what has published before. Do you want to see it now? 🔦",
+  "show_carrousel": "View previous posts",
+  "not_now": "No thanks",
   
-  "looks_great": "OK(Looks great right?) All (You can use the bottom menu to search for blaublua  or look for blau, blau, blau",
-  "persistent_menu_preview_image_url": "https://cdn-images-1.medium.com/max/1600/1*wfJWcubQWZIji1oK3lYV7g.png",
-  "bye": "See u soon!"
+  "looks_great": "What next? I'm sure you want more of this",
+  "persistent_menu_preview_image_url": "https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif",
+  "bye": "Use the menu below 👇👇👇👇 to look at your subscriptions, edit them or search for new ones. Cheerio!"
 }
