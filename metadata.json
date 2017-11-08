@@ -1,8 +1,8 @@
 {
   "welcome_1": "Howdy $1! 👋",
-  "welcome_2": "Here you’ll have access to all your inspiration from your favorite people and brands. I will talk to you when there is something new interesting about the ones you pick.",
+  "welcome_2": "Here you’ll have access to all your inspiration from your favorite people and brands . I will talk to you when there is something new interesting about the ones you pick.",
   "welcome_3": "First, you have to add them! Choose your favourite Youtubers 🎥, Twitters 🐦, Podcasts 🎙️ or Blogs 📰. Or search for them directly.",
-  "welcome_back_1": "Happy to see you $1, I was missing you!",
+  "welcome_back_1": "Happy to see you $1, I was missing you! 🙃",
   "welcome_back_2": "Lets get to it",
 
   "youtube_title": "Youtube Catalog",
@@ -30,12 +30,12 @@
   "podcast_button_title": "Explore",
   "search_button_title": "Search",
   
-  "subscribed": "You are now subscribed to $1 and will start receiving everything published in real-time.",
+  "subscribed": "You are now subscribed to $1 and will start receiving everything published in real-time 🙌🏻",
   "preview": "You can also see what has published before. Do you want to see it now?",
-  "show_carrousel": "View previous posts",
+  "show_carrousel": "View previous posts 🔦",
   "not_now": "No thanks",
   
-  "looks_great": "What next? Go to your chat menu below to look at your subscriptions, edit them or search for new ones.",
+  "looks_great": "What next? I'm sure you want more of this ",
   "persistent_menu_preview_image_url": "https://cdn-images-1.medium.com/max/1600/1*wfJWcubQWZIji1oK3lYV7g.png",
-  "bye": "Cheerio!"
+  "bye": "You can always use the menu below 👇👇👇👇 to look at your subscriptions, edit them or search for new ones. Cheerio!"
 }
