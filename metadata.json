@@ -7,22 +7,22 @@
 
   "youtube_title": "Youtube Catalog",
   "youtube_subtitle": "Don’t miss any more videos",
-  "youtube_image_url": "http://cdn.wccftech.com/wp-content/uploads/2017/08/Screen-Shot-2017-08-30-at-12.37.20-AM.png",
+  "youtube_image_url": "http://storedev2.gethooksapp.com/images/carousel/youtube.png",
   "youtube_url": "https://storedev2.gethooksapp.com/featured/youtube",
   
   "twitter_title": "Twitter Catalog",
   "twitter_subtitle": "The world-famous blue bird chanting for you",
-  "twitter_image_url": "http://www.freelarge-images.com/wp-content/uploads/2015/05/Twitter_Logo_Hd_Png_07.png",
+  "twitter_image_url": "http://storedev2.gethooksapp.com/images/carousel/twitter.png",
   "twitter_url": "https://storedev2.gethooksapp.com/featured/twitter",
   
   "podcast_title": "Podcast Catalog",
   "podcast_subtitle": "Get notified on your favourite audio series",
-  "podcast_image_url": "https://coloradooutdoorsmag.files.wordpress.com/2011/08/podcast-symbol8.jpg",
+  "podcast_image_url": "http://storedev2.gethooksapp.com/images/carousel/podcasts.png",
   "podcast_url": "https://storedev2.gethooksapp.com/featured/podcast",
   
-  "search_title": "Search Whatever (%&*¨#)",
+  "search_title": "Search Author",
   "search_subtitle": "Reach for the stars",
-  "search_image_url": "https://coloradooutdoorsmag.files.wordpress.com/2011/08/podcast-symbol8.jpg",
+  "search_image_url": "http://storedev2.gethooksapp.com/images/carousel/search.png",
   "search_url": "https://storedev2.gethooksapp.com/search",
   
   "youtube_button_title": "Explore",
