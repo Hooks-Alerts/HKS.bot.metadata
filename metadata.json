@@ -8,22 +8,22 @@
   "youtube_title": "Youtube Catalog",
   "youtube_subtitle": "Don’t miss any more videos",
   "youtube_image_url": "http://storedev2.gethooksapp.com/images/carousel/youtube_2.png",
-  "youtube_url": "https://storedev2.gethooksapp.com/featured/youtube",
+  "youtube_url": "https://hooks.me/featured/youtube",
   
   "twitter_title": "Twitter Catalog",
   "twitter_subtitle": "The world-famous blue bird chanting for you",
   "twitter_image_url": "http://storedev2.gethooksapp.com/images/carousel/twitter.png",
-  "twitter_url": "https://storedev2.gethooksapp.com/featured/twitter",
+  "twitter_url": "https://hooks.me/featured/twitter",
   
   "podcast_title": "Podcast Catalog",
   "podcast_subtitle": "Get notified on your favourite audio series",
   "podcast_image_url": "http://storedev2.gethooksapp.com/images/carousel/podcasts.png",
-  "podcast_url": "https://storedev2.gethooksapp.com/featured/podcast",
+  "podcast_url": "https://hooks.me/featured/podcast",
   
   "search_title": "Search Author",
   "search_subtitle": "Reach for the stars",
-  "search_image_url": "http://storedev2.gethooksapp.com/images/carousel/search.png",
-  "search_url": "https://storedev2.gethooksapp.com/search",
+  "search_image_url": "http://hooks.me/images/carousel/search.png",
+  "search_url": "https://hooks.me/search",
   
   "youtube_button_title": "Explore",
   "twitter_button_title": "Explore",
