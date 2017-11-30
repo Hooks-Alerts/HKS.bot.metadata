@@ -7,17 +7,17 @@
 
   "youtube_title": "Youtube Catalog",
   "youtube_subtitle": "Don’t miss any more videos",
-  "youtube_image_url": "http://storedev2.gethooksapp.com/images/carousel/youtube_2.png",
+  "youtube_image_url": "https://hooks.me/images/carousel/youtube_2.png",
   "youtube_url": "https://hooks.me/featured/home",
   
   "twitter_title": "Twitter Catalog",
   "twitter_subtitle": "The world-famous blue bird chanting for you",
-  "twitter_image_url": "http://storedev2.gethooksapp.com/images/carousel/twitter.png",
+  "twitter_image_url": "https://hooks.me/images/carousel/twitter.png",
   "twitter_url": "https://hooks.me/featured/twitter",
   
   "podcast_title": "Podcast Catalog",
   "podcast_subtitle": "Get notified on your favourite audio series",
-  "podcast_image_url": "http://storedev2.gethooksapp.com/images/carousel/podcasts.png",
+  "podcast_image_url": "https://hooks.me/images/carousel/podcasts.png",
   "podcast_url": "https://hooks.me/featured/podcast",
   
   "search_title": "Search Author",
